@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762682146331",
+    "firebase_url": "https://magickit-7cc8c.firebaseio.com",
+    "project_id": "magickit-7cc8c",
+    "storage_bucket": "magickit-7cc8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762682146331:android:f78ed5540b6b96b3",
+        "android_client_info": {
+          "package_name": "com.example.magickit20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762682146331-fub365hqg6d44dqeu49j731gh200onh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfQxJYxUmAayEdIIzRNi_eGUX_sKGNGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762682146331-fub365hqg6d44dqeu49j731gh200onh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
